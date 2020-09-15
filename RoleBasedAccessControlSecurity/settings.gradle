@@ -1,0 +1,3 @@
+include ':rbaclibrary'
+//include ':app'
+rootProject.name = "Role-Based Access Control Security"

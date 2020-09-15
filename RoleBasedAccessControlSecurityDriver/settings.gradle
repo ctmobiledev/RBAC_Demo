@@ -1,0 +1,4 @@
+include ':rbaclibrary-debug'
+include ':app-debug'
+include ':app'
+rootProject.name = "RoleBasedAccessControlSecurityDriver"
