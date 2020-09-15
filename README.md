@@ -9,4 +9,4 @@ A collection of unit tests runs a variety of operations defined to the system, i
 
 The original challenge specified being as simple as possible, without any meaningful or stylish UI of any sort, so there are no other screens or UI controls to reflect the values of objects within the system. No operation to update individual objects exists, and rather than using a SQLite database, all operations are done with List collections in memory.
 
-There were two pieces in the solution to this challenge - the library module which defines the objects and associated operations, and a driver, which calls the library module as an AAR file.
+There were two components in the solution to this challenge - the library module which defines the objects and associated operations, and a driver, which calls the library module as an AAR file.
