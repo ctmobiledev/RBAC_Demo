@@ -1,5 +1,5 @@
 # RBAC_Demo
- Role-Based Access Control - a security coding challenge.
+ Role-Based Access Control - an Android-based security coding challenge.
 
 A demo of my coding skills for a particular company, RBAC_Demo was intended to be a bare-bones, no-frills, Android app to model a role-based security system for a collection of web pages. 
 
